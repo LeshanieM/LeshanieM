@@ -7,6 +7,12 @@
 
 ---
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="LeshanieM's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeshanieM&theme=blue-green" height="192px"/>
+  </a>
+
+---
+
 ### 💡 About Me:
 - 🌱 **Currently Learning:** Full stack development
 - 🔭 **Building:** Innovative projects and sharpening my skills in **web development** and **software engineering**  
