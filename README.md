@@ -6,12 +6,6 @@
 </p>
 
 ---
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="LeshanieM's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeshanieM&theme=blue-green" height="192px"/>
-  </a>
-</p>
----
 
 ### 💡 About Me:
 - 🌱 **Currently Learning:** Full stack development(MERN, Angular, Springboot)
@@ -58,6 +52,13 @@
   </a>
 </p>
 
+---
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="LeshanieM's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeshanieM&theme=blue-green" height="192px"/>
+  </a>
+</p>
 ---
 
 ### 📊 GitHub Stats:
