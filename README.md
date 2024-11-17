@@ -14,7 +14,7 @@
 ---
 
 ### 💡 About Me:
-- 🌱 **Currently Learning:** Full stack development
+- 🌱 **Currently Learning:** Full stack development(MERN, Angular, Springboot)
 - 🔭 **Building:** Innovative projects and sharpening my skills in **web development** and **software engineering**  
 - 🤝 **Collaborating:** Open to connecting and working on exciting tech challenges  
 - ⚡ **Fun Fact:** I love self-Learning
