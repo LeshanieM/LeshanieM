@@ -17,7 +17,7 @@
 
 ### 🌐 Connect with Me:
 <p align="center">
-  <a href="https://linkedin.com/in/leshanie-bogoda-arachchi" target="_blank">
+  <a href="https://www.linkedin.com/in/leshanie-bogoda-arachchi-19a8b8216/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="mailto:Leshanieb@gmail.com" target="_blank">
