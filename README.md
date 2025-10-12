@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leshanie Manusha</h1>
+<h1 align="center">Hi 👋, I'm Leshanie </h1>
 <h3 align="center">🌟 Aspiring IT Professional | Tech Enthusiast | Dedicated Learner 🚀</h3>
 
 <p align="center"> 
