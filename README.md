@@ -8,7 +8,7 @@
 ---
 
 ### 💡 About Me:
-- 🌱 **Portfolio: [https://portfolio-leshaniems-projects.vercel.app/](https://inventrio-syqa.vercel.app/)
+- 🌱 **Portfolio: https://inventrio-syqa.vercel.app/
 - 🔭 **Building:** Innovative projects and sharpening my skills in **web development** and **software engineering**  
 - 🤝 **Collaborating:** Open to connecting and working on exciting tech challenges  
 - ⚡ **Fun Fact:**  WIP
