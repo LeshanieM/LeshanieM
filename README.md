@@ -1,85 +1,78 @@
-<h1 align="center">Hi 👋, I'm Leshanie </h1>
+<h1 align="center">Hi 👋, I'm Leshanie</h1>
 <h3 align="center">🌟 Aspiring IT Professional | Tech Enthusiast | Dedicated Learner 🚀</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=leshaniem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=leshaniem&label=Profile%20views&color=0e75b6&style=flat" alt="leshaniem" /> 
 </p>
 
 ---
 
 ### 💡 About Me:
-- 🌱 **Portfolio: https://inventrio-syqa.vercel.app/**  
-- 🔭 **Building:** Innovative projects and sharpening my skills in **web development** and **software engineering**  
-- 🤝 **Collaborating:** Open to connecting and working on exciting tech challenges  
-- ⚡ **Fun Fact:**  WIP
+- 🌱 **Currently learning:** Advanced web development and cloud technologies
+- 🔭 **Working on:** Building innovative projects and sharpening my skills in **web development** and **software engineering**
+- 👨‍💻 **Portfolio:** [inventrio-syqa.vercel.app](https://inventrio-syqa.vercel.app/)
+- 🤝 **Looking to collaborate on:** Open source projects and exciting tech challenges
+- 📫 **How to reach me:** Leshanieb@gmail.com
 
 ---
 
 ### 🌐 Connect with Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/leshanie-bogoda-arachchi-19a8b8216/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:Leshanieb@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/LeshanieM" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Tech Stack:
 <p align="center">
-  <a href="https://angular.io" target="_blank">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
-  </a>
-</p>
-
----
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="LeshanieM's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeshanieM&theme=blue-green" height="192px"/>
-  </a>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,angular,js,html,css" alt="Frontend" />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=python,java,spring,c" alt="Backend" />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=arduino,git,mysql,vscode" alt="Tools" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
+
+
+
+
+
+**Option 2A: Simple Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leshaniem&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeshanieM&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeshanieM&theme=github_dark" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leshaniem&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
-### 🎨 A Little More About Me:
+### 🎯 My GitHub Activity:
 ```yaml
-education: 
-  - "BSc (Hons) Information Technology"
-hobbies: 
-  - "Exploring emerging tech 🌐"
-  - "UI/UX design 🖌️"
-  - "Learning about AI 🤖"
-favorite_quote: 
-  - "The only way to do great work is to love what you do." – Steve Jobs
+name: "Leshanie Bogoda Arachchi"
+education: "BSc (Hons) Information Technology"
+currently:
+  - "Enhancing web development skills"
+  - "Exploring cloud technologies"
+  - "Building portfolio projects"
+interests:
+  - "Web Development"
+  - "UI/UX Design"
+  - "Artificial Intelligence"
+  - "Emerging Technologies"
+hobbies:
+  - "Coding challenges"
+  - "Tech research"
+  - "Creative design"
+quote: "The only way to do great work is to love what you do. – Steve Jobs"
