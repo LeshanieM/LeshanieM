@@ -12,7 +12,7 @@
 - 🔭 **Working on:** Building innovative projects and sharpening my skills in **web development** and **software engineering**
 - 👨‍💻 **Portfolio:** [inventrio-syqa.vercel.app](https://inventrio-syqa.vercel.app/)
 - 🤝 **Looking to collaborate on:** Open source projects and exciting tech challenges
-- 📫 **How to reach me:** Leshanieb@gmail.com
+- 📫 **How to reach me:** leshanieb@gmail.com
 
 ---
 
