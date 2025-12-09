@@ -41,38 +41,29 @@
   <img src="https://skillicons.dev/icons?i=arduino,git,mysql,vscode" alt="Tools" />
 </p>
 
+
+
+
 ---
-
-### 📊 GitHub Stats:
-
-
-
-
-
-**Option 2A: Simple Stats**
+### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeshanieM&theme=github_dark" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeshanieM&theme=github_dark" height="180"/>
+  <!-- Simple counter that usually works -->
+  <img src="https://github-readme-stats-git-main-anishghimire-projects.vercel.app/api?username=LeshanieM&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeshanieM&theme=react-dark" alt="Activity Graph" width="90%"/>
 </p>
 
 
+
 ---
 
-### 🎯 My GitHub Activity:
+### 🎯 GitHub Metrics:
 ```yaml
-name: "Leshanie Bogoda Arachchi"
-education: "BSc (Hons) Information Technology"
-currently:
-  - "Enhancing web development skills"
-  - "Exploring cloud technologies"
-  - "Building portfolio projects"
-interests:
-  - "Web Development"
-  - "UI/UX Design"
-  - "Artificial Intelligence"
-  - "Emerging Technologies"
-hobbies:
-  - "Coding challenges"
-  - "Tech research"
-  - "Creative design"
-quote: "The only way to do great work is to love what you do. – Steve Jobs"
+GitHub Profile: LeshanieM
+Status: Active Contributor
+Focus Areas: Web Development, Software Engineering
+Current Projects: Portfolio Development, Skill Enhancement
+Contribution Philosophy: "Consistency > Intensity"
