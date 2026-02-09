@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leshanie</h1>
-<h3 align="center">🌟 Aspiring IT Professional | Tech Enthusiast | Dedicated Learner 🚀</h3>
+<h3 align="center">😌 Fancy Coder | Tech Enthusiast | Dedicated Learner 🚀</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=leshaniem&label=Profile%20views&color=0e75b6&style=flat" alt="leshaniem" /> 
@@ -8,10 +8,9 @@
 ---
 
 ### 💡 About Me:
-- 🌱 **Currently learning:** Advanced web development and cloud technologies
-- 🔭 **Working on:** Building innovative projects and sharpening my skills in **web development** and **software engineering**
+I'm not a typcal coder, I build fancy stuff!!! 😌
+-
 - 👨‍💻 **Portfolio:** [inventrio-syqa.vercel.app](https://inventrio-syqa.vercel.app/)
-- 🤝 **Looking to collaborate on:** Open source projects and exciting tech challenges
 - 📫 **How to reach me:** leshanieb@gmail.com
 
 ---
