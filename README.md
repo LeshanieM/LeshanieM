@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leshanie</h1>
-<h3 align="center">😌 Fancy Coder | Tech Enthusiast | Dedicated Learner 🚀</h3>
+<h3 align="center">😌 Stylish coder. Fancy stuff. Questionable sleep schedule. </h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=leshaniem&label=Profile%20views&color=0e75b6&style=flat" alt="leshaniem" /> 
@@ -8,7 +8,7 @@
 ---
 
 ### 💡 About Me:
-I'm not a typcal coder, I build fancy stuff!!! 😌
+I build fancy stuff!!! 😌
 -
 - 👨‍💻 **Portfolio:** [inventrio-syqa.vercel.app](https://inventrio-syqa.vercel.app/)
 - 📫 **How to reach me:** leshanieb@gmail.com
