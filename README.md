@@ -40,22 +40,26 @@ I build fancy stuff!!! 😌
   <img src="https://skillicons.dev/icons?i=arduino,git,mysql,vscode" alt="Tools" />
 </p>
 
-
-
-
 ---
+
 ### 📈 GitHub Stats:
 <p align="center">
-  <!-- Simple counter that usually works -->
   <img src="https://github-readme-stats-git-main-anishghimire-projects.vercel.app/api?username=LeshanieM&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+<!-- Contribution Streak Cards -->
 <p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeshanieM&theme=react-dark" alt="Activity Graph" width="90%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=LeshanieM&theme=radical&hide_border=true&card_width=300" alt="Streak Stats" />
 </p>
 
+<p align="center">
+  <!-- Total Contributions Card -->
+  <img src="https://github-contributions-api.deno.dev/LeshanieM.svg" alt="Total Contributions" width="400" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeshanieM&theme=react-dark" alt="Activity Graph" width="90%"/>
+</p>
 
 ---
 
